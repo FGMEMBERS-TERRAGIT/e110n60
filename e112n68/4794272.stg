@@ -51,3 +51,5 @@ OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml 112.4745615 68.5212544 21
 OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml 112.4746822 68.5219672 217.91 0
 OBJECT_SHARED Models/Aircraft/mil-mi-8-lowpoly.ac 112.4767516 68.5177327 215.39 288
 OBJECT_SHARED Models/Aircraft/mil-mi-8-lowpoly.ac 112.4769411 68.5173525 215.16 272
+OBJECT_SHARED Models/Aircraft/an-12-blue.ac 112.4760536 68.5136392 212.22 276
+OBJECT_SHARED Models/Aircraft/an-12-grau.ac 112.4767981 68.5127791 211.72 340

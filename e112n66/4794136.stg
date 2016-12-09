@@ -27,3 +27,7 @@ OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml 112.0401074 66.4005897 49
 OBJECT_SHARED Models/StreetFurniture/streetlamp10m.xml 112.0402815 66.40039 494.08 148
 OBJECT_SHARED Models/Aircraft/mil-mi-8-lowpoly.ac 112.0363891 66.4006367 495.45 60.5
 OBJECT_SHARED Models/Airport/hw-hangar-movable-b.xml 112.0403694 66.3982817 492.87 17.4
+OBJECT_SHARED Models/Misc/uerp-mine.xml 112.3165354 66.4450707 1.36 84.9
+OBJECT_SHARED Models/Military/hard-top2-sand-high.ac 112.2582434 66.4394843 385.07 320
+OBJECT_SHARED Models/Aircraft/an-12-grau.ac 112.0388695 66.3993668 494.03 108
+OBJECT_SHARED Models/Aircraft/an-12-red.ac 112.0392549 66.3989617 493.68 72
