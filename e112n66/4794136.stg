@@ -1,4 +1,8 @@
+OBJECT_SHARED Models/Airport/ils.xml 112.040497 66.389999 489.75 16
+OBJECT_SHARED Models/Communications/vordme_1.xml 112.026944 66.408333 500.7 0
+OBJECT_SHARED Models/Airport/marker.ac 112.048332 66.375664 463.01 0
 OBJECT_SHARED Models/Airport/GenericFuelStore5.ac 112.0384848 66.4025695 496.12 12
+OBJECT_SHARED Models/Airport/localizer.xml 112.018333 66.416702 483.74 16
 OBJECT_SHARED Models/Military/us-hush-house-hangar-sand.xml 112.0399023 66.3993326 493.59 107.2
 OBJECT_SHARED Models/Airport/EHAM_olietank_a.ac 112.0391919 66.4026344 495.85 0
 OBJECT_SHARED Models/Airport/zone_services.ac 112.0396674 66.3986419 493.35 197.3
